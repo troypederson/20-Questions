@@ -1,0 +1,1 @@
+{is_alive: False, is_person: False, is_place: False, is_thing: True, is_plant: True, is_animal: False, is_physical: True, is_rock: False, is_food: True, is_man_made: True, name: 'wheat'}

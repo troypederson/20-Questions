@@ -1,0 +1,1 @@
+{"is_alive": false, "is_person": false, "is_place": false, "is_thing": true, "is_plant": false, "is_animal": false, "is_physical": true, "is_rock": false, "is_food": false, "is_man_made": true, "name": "lacrosse"}
