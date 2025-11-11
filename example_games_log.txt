@@ -1,0 +1,322 @@
+# 10 Example Games - Full Transcripts
+
+## Game 1 | Target: Cereal With Milk
+**Questions**: 10 | **Guess**: Truth | **Category**: Wrong
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (n)
+Q 3: Is it a place? (n)
+Q 4: Is it a thing? (y)
+Q 5: Is it a food? (y)
+ → Reached leaf: foods (163 nouns)
+Q 6: Does it have the property 'raw'? (y)
+     → 62 nouns left
+Q 7: Does it have the property 'natural'? (n)
+     → 4 nouns left
+Q 8: Does it have the property 'cooked'? (n)
+     → 4 nouns left
+Q 9: Is your word more 'ingredients' than 'Coconut' (8/8)? (y)
+     → 0 nouns left
+Q10: Are you thinking of Truth? (n)
+```
+
+## Game 2 | Target: Squid
+**Questions**: 14 | **Guess**: Squid | **Category**: Exactly Correct
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (y)
+Q 3: Is it a person? (n)
+Q 4: Is it an animal? (y)
+ → Reached leaf: animals (260 nouns)
+Q 5: Does it have the property 'mammal'? (n)
+     → 125 nouns left
+Q 6: Does it have the property 'reptile'? (n)
+     → 60 nouns left
+Q 7: Does it have the property 'bird'? (n)
+     → 34 nouns left
+Q 8: Does it have the property 'fish'? (y)
+     → 13 nouns left
+Q 9: Does it have the property 'amphibian'? (n)
+     → 13 nouns left
+Q10: Is your word more 'size' than 'Ocelot' (3/7)? (y)
+     → 5 nouns left
+Q11: Is your word more 'speed' than 'Octopus' (3/7)? (n)
+     → 4 nouns left
+Q12: Is your word more 'aggressiveness' than 'Squid' (3/7)? (n)
+     → 3 nouns left
+Q13: Is your word more 'domesticatability' than 'Narwhal' (1/2)? (y)
+     → 1 nouns left
+Q14: Are you thinking of Squid? (y)
+```
+
+## Game 3 | Target: Shaquille O'Neal
+**Questions**: 13 | **Guess**: Shaquille O'Neal | **Category**: Exactly Correct
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (y)
+Q 3: Is it a person? (y)
+ → Reached leaf: people (102 nouns)
+Q 4: Does it have the property 'athlete'? (y)
+     → 79 nouns left
+Q 5: Does it have the property 'actor'? (n)
+     → 79 nouns left
+Q 6: Does it have the property 'STEM worker'? (n)
+     → 79 nouns left
+Q 7: Does it have the property 'profession'? (n)
+     → 79 nouns left
+Q 8: Is your word more 'entertainment' than 'Patrick Ewing' (7/10)? (y)
+     → 37 nouns left
+Q 9: Is your word more 'sports scoring ability' than 'Anthony Davis' (9/10)? (n)
+     → 33 nouns left
+Q10: Is your word more 'athletic ability' than 'Jerry West' (9/10)? (y)
+     → 10 nouns left
+Q11: Is your word more 'influence' than 'Hakeem Olajuwon' (10/10)? (n)
+     → 10 nouns left
+Q12: Is your word more 'medical knowledge' than 'Hakeem Olajuwon' (2/3)? (y)
+     → 1 nouns left
+Q13: Are you thinking of Shaquille O'Neal? (y)
+```
+
+## Game 4 | Target: Surfing
+**Questions**: 19 | **Guess**: Broadcast | **Category**: Kinda/sorta close
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (n)
+Q 3: Is it a place? (n)
+Q 4: Is it a thing? (y)
+Q 5: Is it a food? (n)
+Q 6: Is it man made? (y)
+ → Reached leaf: man_made_objects (936 nouns)
+Q 7: Does it have the property 'tool'? (n)
+     → 635 nouns left
+Q 8: Does it have the property 'exercise'? (n)
+     → 494 nouns left
+Q 9: Does it have the property 'service'? (n)
+     → 366 nouns left
+Q10: Does it have the property 'vehicle'? (n)
+     → 264 nouns left
+Q11: Does it have the property 'toy'? (n)
+     → 241 nouns left
+Q12: Does it have the property 'clothing'? (n)
+     → 235 nouns left
+Q13: Is your word more 'engineering' than 'Treasure Chest' (2/10)? (n)
+     → 120 nouns left
+Q14: Is your word more 'monetary value' than 'Villain' (1/10)? (n)
+     → 62 nouns left
+Q15: Is your word more 'electrical' than 'Jacket' (1/8)? (n)
+     → 59 nouns left
+Q16: Is your word more 'size' than 'Villain' (1/8)? (n)
+     → 30 nouns left
+Q17: Is your word more 'simplicity' than 'Newton' (1/5)? (y)
+     → 6 nouns left
+Q18: Is your word more 'softness' than 'Surfing' (1/3)? (n)
+     → 5 nouns left
+Q19: Are you thinking of Broadcast? (n)
+```
+
+## Game 5 | Target: Feather
+**Questions**: 16 | **Guess**: Family | **Category**: Wrong
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (n)
+Q 3: Is it a place? (n)
+Q 4: Is it a thing? (y)
+Q 5: Is it a food? (n)
+Q 6: Is it man made? (n)
+Q 7: Is it a rock or mineral? (n)
+ → Reached leaf: random_uncategorized_objects (71 nouns)
+Q 8: Does it have the property 'tool'? (n)
+     → 71 nouns left
+Q 9: Does it have the property 'vehicle'? (n)
+     → 71 nouns left
+Q10: Does it have the property 'toy'? (n)
+     → 71 nouns left
+Q11: Does it have the property 'pokemon'? (n)
+     → 71 nouns left
+Q12: Does it have the property 'concept'? (y)
+     → 71 nouns left
+Q13: Is your word more 'entertainment' than 'Silence' (2/10)? (n)
+     → 43 nouns left
+Q14: Is your word more 'complexity' than 'Nest' (3/7)? (n)
+     → 32 nouns left
+Q15: Is your word more 'size' than 'Temperature' (1/7)? (y)
+     → 14 nouns left
+Q16: Are you thinking of Family? (n)
+```
+
+## Game 6 | Target: Watermelon
+**Questions**: 15 | **Guess**: Watermelon | **Category**: Exactly Correct
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (n)
+Q 3: Is it a place? (n)
+Q 4: Is it a thing? (y)
+Q 5: Is it a food? (y)
+ → Reached leaf: foods (163 nouns)
+Q 6: Does it have the property 'raw'? (y)
+     → 62 nouns left
+Q 7: Does it have the property 'natural'? (y)
+     → 58 nouns left
+Q 8: Does it have the property 'cooked'? (n)
+     → 58 nouns left
+Q 9: Is your word more 'ingredients' than 'Grapes' (1/9)? (y)
+     → 23 nouns left
+Q10: Is your word more 'sweetness' than 'Blueberry' (7/8)? (y)
+     → 2 nouns left
+Q11: Is your word more 'heat' than 'Mango' (7/7)? (n)
+     → 2 nouns left
+Q12: Is your word more 'savoriness' than 'Mango' (6/6)? (n)
+     → 2 nouns left
+Q13: Is your word more 'preparation time' than 'Mango' (3/3)? (n)
+     → 2 nouns left
+Q14: Is your word more 'saltiness' than 'Mango' (1/1)? (n)
+     → 2 nouns left
+Q15: Are you thinking of Watermelon? (y)
+```
+
+## Game 7 | Target: Jar
+**Questions**: 19 | **Guess**: Front Squat | **Category**: Kinda/sorta close
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (n)
+Q 3: Is it a place? (n)
+Q 4: Is it a thing? (y)
+Q 5: Is it a food? (n)
+Q 6: Is it man made? (y)
+ → Reached leaf: man_made_objects (936 nouns)
+Q 7: Does it have the property 'tool'? (n)
+     → 635 nouns left
+Q 8: Does it have the property 'exercise'? (n)
+     → 494 nouns left
+Q 9: Does it have the property 'service'? (n)
+     → 366 nouns left
+Q10: Does it have the property 'vehicle'? (n)
+     → 264 nouns left
+Q11: Does it have the property 'toy'? (n)
+     → 241 nouns left
+Q12: Does it have the property 'clothing'? (n)
+     → 235 nouns left
+Q13: Is your word more 'engineering' than 'Treasure Chest' (2/10)? (y)
+     → 115 nouns left
+Q14: Is your word more 'electrical' than 'Height Chart' (1/10)? (n)
+     → 95 nouns left
+Q15: Is your word more 'simplicity' than 'Glass Vase' (3/7)? (y)
+     → 15 nouns left
+Q16: Is your word more 'size' than 'Block' (5/7)? (n)
+     → 11 nouns left
+Q17: Is your word more 'monetary value' than 'Version' (3/7)? (n)
+     → 6 nouns left
+Q18: Is your word more 'softness' than 'Front Squat' (2/3)? (n)
+     → 5 nouns left
+Q19: Are you thinking of Front Squat? (n)
+```
+
+## Game 8 | Target: Hill
+**Questions**: 14 | **Guess**: Hill | **Category**: Exactly Correct
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (n)
+Q 3: Is it a place? (y)
+ → Reached leaf: places (263 nouns)
+Q 4: Does it have the property 'In the US'? (n)
+     → 147 nouns left
+Q 5: Does it have the property 'One Specific Place'? (n)
+     → 60 nouns left
+Q 6: Does it have the property 'In the western US'? (y)
+     → 3 nouns left
+Q 7: Does it have the property 'In the Eastern US'? (n)
+     → 3 nouns left
+Q 8: Is your word more 'vegetation' than 'Hill' (5/7)? (n)
+     → 2 nouns left
+Q 9: Is your word more 'heat' than 'Petra' (7/7)? (n)
+     → 2 nouns left
+Q10: Is your word more 'extreme weather' than 'Petra' (7/7)? (n)
+     → 2 nouns left
+Q11: Is your word more 'size' than 'Hill' (5/5)? (n)
+     → 2 nouns left
+Q12: Is your word more 'cold' than 'Hill' (5/5)? (n)
+     → 2 nouns left
+Q13: Is your word more 'population' than 'Petra' (1/1)? (n)
+     → 2 nouns left
+Q14: Are you thinking of Hill? (y)
+```
+
+## Game 9 | Target: Morganite
+**Questions**: 17 | **Guess**: Syenite | **Category**: Kinda/sorta close
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (n)
+Q 3: Is it a place? (n)
+Q 4: Is it a thing? (y)
+Q 5: Is it a food? (n)
+Q 6: Is it man made? (n)
+Q 7: Is it a rock or mineral? (y)
+ → Reached leaf: rocks (116 nouns)
+Q 8: Does it have the property 'mineral'? (n)
+     → 112 nouns left
+Q 9: Does it have the property 'rock'? (y)
+     → 112 nouns left
+Q10: Does it have the property 'metal'? (n)
+     → 112 nouns left
+Q11: Is your word more 'hardness' than 'Peridotite' (6/10)? (y)
+     → 48 nouns left
+Q12: Is your word more 'shine' than 'Breccia' (3/9)? (n)
+     → 33 nouns left
+Q13: Is your word more 'brittleness' than 'Syenite' (3/8)? (n)
+     → 23 nouns left
+Q14: Is your word more 'beauty' than 'Boulder' (5/8)? (n)
+     → 14 nouns left
+Q15: Is your word more 'darkness' than 'Boulder' (5/8)? (n)
+     → 10 nouns left
+Q16: Is your word more 'monetary value' than 'Tectonite' (1/3)? (n)
+     → 7 nouns left
+Q17: Are you thinking of Syenite? (n)
+```
+
+## Game 10 | Target: Electronic Arts
+**Questions**: 19 | **Guess**: Electronic Arts | **Category**: Exactly Correct
+
+```
+Q 1: Is it physically tangible? (y)
+Q 2: Is it alive? (n)
+Q 3: Is it a place? (n)
+Q 4: Is it a thing? (y)
+Q 5: Is it a food? (n)
+Q 6: Is it man made? (y)
+ → Reached leaf: man_made_objects (936 nouns)
+Q 7: Does it have the property 'tool'? (n)
+     → 635 nouns left
+Q 8: Does it have the property 'exercise'? (n)
+     → 494 nouns left
+Q 9: Does it have the property 'service'? (n)
+     → 366 nouns left
+Q10: Does it have the property 'vehicle'? (n)
+     → 264 nouns left
+Q11: Does it have the property 'toy'? (n)
+     → 241 nouns left
+Q12: Does it have the property 'clothing'? (n)
+     → 235 nouns left
+Q13: Is your word more 'engineering' than 'Treasure Chest' (2/10)? (n)
+     → 120 nouns left
+Q14: Is your word more 'monetary value' than 'Villain' (1/10)? (y)
+     → 58 nouns left
+Q15: Is your word more 'electrical' than 'Pilot Episode' (1/8)? (y)
+     → 3 nouns left
+Q16: Is your word more 'size' than 'Lace Monitor' (3/3)? (n)
+     → 3 nouns left
+Q17: Is your word more 'softness' than 'Remote Control' (1/2)? (n)
+     → 2 nouns left
+Q18: Is your word more 'simplicity' than 'Remote Control' (3/3)? (n)
+     → 2 nouns left
+Q19: Are you thinking of Electronic Arts? (y)
+```
+
